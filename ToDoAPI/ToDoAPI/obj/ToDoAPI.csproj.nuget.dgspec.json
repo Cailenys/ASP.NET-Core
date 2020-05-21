@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI.csproj": {}
+    "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI.csproj": {
+    "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "projectName": "ToDoAPI",
-        "projectPath": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\dotNET-ToDo-API\\ToDoAPI\\ToDoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
